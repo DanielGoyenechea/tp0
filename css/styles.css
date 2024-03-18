@@ -229,3 +229,7 @@ footer h5{
 
 .primary4 {background-color: aquamarine; border: 2px solid #ffffff;} 
 .primary4:hover {background: #0b7dda; color: white;}
+
+.nuevo{
+    background-color: red;
+}
