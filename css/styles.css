@@ -1,0 +1,231 @@
+*{
+margin: 0;
+border: 0;
+}
+
+.header{
+    background-color: rgb(190, 188, 188);
+    height: 5vh;
+    width: 100%;
+}
+.banner{
+    height: 50vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(255, 1, 1);
+}
+
+.img1{
+    object-fit: cover;
+}
+
+.descrip{
+    height: 40vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+}
+
+.productos{
+    height: 90vh;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+    display: flex;
+    flex-direction: row;
+}
+
+.staff{
+    height: 60vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+footer{
+    background-color: black;
+    height: 8vh;
+}
+img {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+  }
+.mini-descr{
+width: 60%;
+}
+.mini-cont{
+    background: white;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 60%;
+}
+
+.mini-cont img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      
+}
+
+.obj1{
+    width: 25%;
+    height: 100%;
+    background-color: aquamarine;
+    margin: 0.1vh;
+}
+
+.obj2{
+    width: 25%;
+    height: 100%;
+    background-color:coral;
+    margin: 0.1vh;
+}
+
+.obj3{
+    width: 25%;
+    height: 100%;
+    background-color:hotpink;
+    margin: 0.1vh;
+}
+
+.obj4{
+    width: 25%;
+    height: 100%;
+    background-color:aqua;
+    margin: 0.1vh;
+}
+
+.foto{
+    margin: 2vh;
+    width: 88%;
+    height: 60%;
+}
+
+.titulo{
+    margin-left: 2vh;
+}
+
+.tit{
+    height: 10%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.plantilla{
+    display: flex;
+    flex-direction: row;
+    gap: 10vh;
+    justify-content: center;
+    margin-top: 10vh;
+}
+
+.pers1{
+    width: 20vh;
+    height: 20vh;
+
+}
+
+.pers1 img {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+
+.pers2 img {
+   border-radius: 50%;
+   width: 100%;
+   height: 100%;
+   object-fit: cover; 
+}
+
+.nombre{
+    text-align: center;
+}
+
+h2{
+    font-family: "Roboto", sans-serif;
+
+}
+
+h4{
+    font-family: "Shadows Into Light", cursive;
+    font-size: 6vh;
+}
+
+.filosofia{
+    margin-top:2vh ;
+}
+
+.lore{
+    margin-top: 5vh;
+    margin-left: 10vh;
+    margin-right: 5vh;
+}
+
+.head{
+    margin-left: 5%;
+}
+
+h5{
+    font-family: "Shadows Into Light", cursive;
+    font-size: 3vh;   
+}
+
+footer h5{
+    text-align: center;
+    color: white;
+}
+
+.descripcion{
+    margin-top: 2vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5vh;
+}
+
+.edad{
+    font-family: "Roboto", sans-serif;
+    color: darkgray;
+}
+
+.btn {
+    border: none; 
+    color: black; 
+    padding: 14px 80px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+  }
+
+.primary {background-color: aqua; border: 2px solid #ffffff;} 
+.primary:hover {background: #0b7dda; color: white;}
+
+.boton{
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+}
+
+.primary2 {background-color: hotpink; border: 2px solid #ffffff;} 
+.primary2:hover {background: #0b7dda; color: white;}
+
+
+.primary3 {background-color: coral; border: 2px solid #ffffff;} 
+.primary3:hover {background: #0b7dda; color: white;}
+
+
+
+.primary4 {background-color: aquamarine; border: 2px solid #ffffff;} 
+.primary4:hover {background: #0b7dda; color: white;}
